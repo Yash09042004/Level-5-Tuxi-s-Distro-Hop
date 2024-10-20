@@ -6,5 +6,5 @@ Welcome to **Tuxi's Distro Adventure**! Our beloved penguin, Tuxi, loves to hop 
 
 Clone the repo below and help Tuxi find his flag
 ```
-https://github.com/Yash09042004/Level-5-Tuxi-s-Distro-Hop.git
+https://github.com/Yash09042004/Level-5_Tuxis_Distro_Hop.git
 ```
